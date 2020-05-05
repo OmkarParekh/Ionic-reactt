@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "react form",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "build",
+  "cordova": {}
+}
